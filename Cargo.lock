@@ -5,3 +5,7 @@ version = 3
 [[package]]
 name = "release-plz-test"
 version = "0.1.0"
+
+[[package]]
+name = "sub_crate"
+version = "0.1.0"
